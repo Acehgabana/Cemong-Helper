@@ -1,5 +1,0 @@
-customtkinter
-pillow
-psutil
-keyboard
-pywin32
