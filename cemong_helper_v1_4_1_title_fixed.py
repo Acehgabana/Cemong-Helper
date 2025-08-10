@@ -1,6 +1,6 @@
-# cemong_helper_v1_3_5_gamer_edition_embed.py
+# cemong_helper_v1_4_1_gamer_edition_embed.py
 # Gamer Edition UI (neon), Auto Loot on F9, compact neon overlay.
-# v1.4.0: Assets embedded (ICO + PNG) — single-file .exe friendly, <10 MB target.
+# v1.4.1: Assets embedded (ICO + PNG) — single-file .exe friendly, <10 MB target.
 # - .exe icon is set at build time with --icon, but window icon also loads from embedded bytes.
 # - Tagline image loads from embedded PNG first; falls back to local files if provided.
 
